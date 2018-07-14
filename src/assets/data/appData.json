@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Rajesh",   "city" : "Kolkata" },
+    { "id": 2, "name": "Arijit",   "city" : "Orisha" },
+    { "id": 3, "name": "Anjan",    "city" : "Delhi" },
+    { "id": 4, "name": "David",    "city" : "Los Angeles" }
+]
